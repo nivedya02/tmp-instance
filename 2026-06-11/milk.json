@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "id": "30fb6119-1f64-487c-b804-da8841482a68",
+      "name": "milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": false
+    },
+    {
+      "id": "4b829ae2-61f9-4cb4-abf2-e318ae3afebd",
+      "name": "cow milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": true
+    }
+  ],
+  "forms": [],
+  "relations": [
+    {
+      "id": "a7faeb45-a252-4d0c-a001-4a53bf63d33e",
+      "type": "VarietyOf",
+      "base": "30fb6119-1f64-487c-b804-da8841482a68",
+      "variety": "4b829ae2-61f9-4cb4-abf2-e318ae3afebd"
+    }
+  ],
+  "customMethods": [],
+  "customMatterStates": [],
+  "customSourceTypes": []
+}
