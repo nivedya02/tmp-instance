@@ -1,0 +1,73 @@
+{
+  "sources": [
+    {
+      "id": "5e3d7cd4-b8bc-49e3-bfd7-5ba2ea812439",
+      "name": "milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": false
+    },
+    {
+      "id": "3cd37964-7a88-4ce7-86a6-71a3d802d992",
+      "name": "cow milk",
+      "type": "dairy",
+      "is_allergen": true,
+      "is_declarable": true
+    },
+    {
+      "id": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
+      "name": "wheat",
+      "type": "plant",
+      "is_allergen": true,
+      "is_declarable": true
+    }
+  ],
+  "forms": [
+    {
+      "id": "curd",
+      "matter_state": "dense_block"
+    },
+    {
+      "id": "flour",
+      "matter_state": "flour"
+    }
+  ],
+  "relations": [
+    {
+      "id": "e91b4b5e-577e-4eec-95e4-b9385275a3f8",
+      "type": "VarietyOf",
+      "base": "5e3d7cd4-b8bc-49e3-bfd7-5ba2ea812439",
+      "variety": "3cd37964-7a88-4ce7-86a6-71a3d802d992"
+    },
+    {
+      "id": "0ea00cdb-3ba1-4042-98ee-f8ab60269f35",
+      "type": "FormOf",
+      "origin": "3cd37964-7a88-4ce7-86a6-71a3d802d992",
+      "form": "curd",
+      "processing_methods": [
+        "fermentation"
+      ]
+    },
+    {
+      "id": "c78a2c9b-96ca-4139-9541-33816bf3dbcc",
+      "type": "FormOf",
+      "origin": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
+      "form": "flour",
+      "processing_methods": [
+        "milling-whole"
+      ]
+    },
+    {
+      "id": "60b5a480-ff7f-4d49-a9d9-5a93a5604e5c",
+      "type": "FormOf",
+      "origin": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
+      "form": "flour",
+      "processing_methods": [
+        "milling-refined"
+      ]
+    }
+  ],
+  "customMethods": [],
+  "customMatterStates": [],
+  "customSourceTypes": []
+}
