@@ -1,73 +1,402 @@
 {
   "sources": [
     {
-      "id": "5e3d7cd4-b8bc-49e3-bfd7-5ba2ea812439",
+      "id": "c138778c-ffd1-474c-a4ba-f15588d038ab",
       "name": "milk",
       "type": "dairy",
-      "is_allergen": true,
-      "is_declarable": false
-    },
-    {
-      "id": "3cd37964-7a88-4ce7-86a6-71a3d802d992",
-      "name": "cow milk",
-      "type": "dairy",
-      "is_allergen": true,
-      "is_declarable": true
-    },
-    {
-      "id": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
-      "name": "wheat",
-      "type": "plant",
       "is_allergen": true,
       "is_declarable": true
     }
   ],
   "forms": [
     {
-      "id": "curd",
-      "matter_state": "dense_block"
+      "id": "whey",
+      "matter_state": "liquid"
     },
     {
-      "id": "flour",
-      "matter_state": "flour"
+      "id": "wpc",
+      "matter_state": "powder"
+    },
+    {
+      "id": "curd",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "ghee",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "khoa",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cream",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "butter",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cheese",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "paneer",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "yoghurt",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cow_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "ice_cream",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "sour_cream",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "skim_milk_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "milk_powder",
+      "matter_state": "powder"
+    },
+    {
+      "id": "casein",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "milk_fat",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "milk_solids",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "lactose",
+      "matter_state": "powder"
+    },
+    {
+      "id": "skim_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "milk_snf",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "raw_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "buffalo_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "buffalo_fat",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cottage_cheese",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "cheddar_cheese",
+      "matter_state": "semi_solid"
+    },
+    {
+      "id": "condensed_milk",
+      "matter_state": "viscous"
+    },
+    {
+      "id": "toned_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "full_cream_milk",
+      "matter_state": "liquid"
+    },
+    {
+      "id": "clarified_butter",
+      "matter_state": "liquid"
     }
   ],
   "relations": [
     {
-      "id": "e91b4b5e-577e-4eec-95e4-b9385275a3f8",
-      "type": "VarietyOf",
-      "base": "5e3d7cd4-b8bc-49e3-bfd7-5ba2ea812439",
-      "variety": "3cd37964-7a88-4ce7-86a6-71a3d802d992"
+      "id": "82cbf196-df9c-429b-8c0c-7d4c72185bdc",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "whey",
+      "processing_methods": [
+        "coagulation"
+      ]
     },
     {
-      "id": "0ea00cdb-3ba1-4042-98ee-f8ab60269f35",
+      "id": "4953997d-8635-4bea-bf21-cbbd4906e7b1",
       "type": "FormOf",
-      "origin": "3cd37964-7a88-4ce7-86a6-71a3d802d992",
+      "origin": "whey",
+      "form": "wpc",
+      "processing_methods": [
+        "ultrafiltration",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "e747ce5b-1a3c-486b-9ecf-6dcdb3c55a2b",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
       "form": "curd",
+      "processing_methods": [
+        "fermentation",
+        "coagulation"
+      ]
+    },
+    {
+      "id": "59d4b7c4-273f-46e5-b5b5-b3157897be6e",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "ghee",
+      "processing_methods": [
+        "clarification"
+      ]
+    },
+    {
+      "id": "77c519b3-78f4-44f8-8f19-52a2cc639506",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "khoa",
+      "processing_methods": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "6be333e7-8ad0-432b-a117-a9cd3e272683",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "cream",
+      "processing_methods": [
+        "centrifugation"
+      ]
+    },
+    {
+      "id": "58ccf5e0-c724-45db-ad25-1ed4a3ef0456",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "butter",
+      "processing_methods": [
+        "churning"
+      ]
+    },
+    {
+      "id": "71db4ffa-cd54-4cf6-8f82-4f02d3287ca6",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "cheese",
+      "processing_methods": [
+        "coagulation",
+        "fermentation"
+      ]
+    },
+    {
+      "id": "7129c835-ecd8-42a1-a115-85135b89c1cb",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "paneer",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "d02a0deb-90f6-4ee1-8827-2b628d8c8de4",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "yoghurt",
       "processing_methods": [
         "fermentation"
       ]
     },
     {
-      "id": "c78a2c9b-96ca-4139-9541-33816bf3dbcc",
+      "id": "d439712e-9d22-408f-aa94-a597bbcb4637",
       "type": "FormOf",
-      "origin": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
-      "form": "flour",
+      "origin": "cream",
+      "form": "sour_cream",
       "processing_methods": [
-        "milling-whole"
+        "fermentation"
       ]
     },
     {
-      "id": "60b5a480-ff7f-4d49-a9d9-5a93a5604e5c",
+      "id": "2c1752d2-b53d-4be6-a676-5987071dd9f9",
       "type": "FormOf",
-      "origin": "3f1124ce-614a-41dc-8d98-7e634a9ce381",
-      "form": "flour",
+      "origin": "skim_milk",
+      "form": "smp_powder",
       "processing_methods": [
-        "milling-refined"
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "2adc6cfa-1c80-4e5e-93db-aa148caff0a2",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "milk_powder",
+      "processing_methods": [
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "316deebb-9e2d-486a-bcd7-fd84d8998818",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "casein",
+      "processing_methods": [
+        "coagulation"
+      ]
+    },
+    {
+      "id": "29cff2ce-6e52-4b6a-893e-d1e1cafef99a",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "milk_fat",
+      "processing_methods": [
+        "centrifugation"
+      ]
+    },
+    {
+      "id": "d89c0a50-1b51-4681-a2bc-091bd518b7aa",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "milk_solids",
+      "processing_methods": [
+        "evaporation",
+        "concentration"
+      ]
+    },
+    {
+      "id": "ebff6a1c-2373-4762-a49f-0ac8fa6d9dad",
+      "type": "FormOf",
+      "origin": "whey",
+      "form": "lactose",
+      "processing_methods": [
+        "ultrafiltration",
+        "drying-spray"
+      ]
+    },
+    {
+      "id": "dbcd82a1-60d7-4950-9a28-fd9c2890f1bc",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "skim_milk",
+      "processing_methods": [
+        "skimming"
+      ]
+    },
+    {
+      "id": "4503adaa-a943-4028-9ce2-40cb14c7bf5e",
+      "type": "FormOf",
+      "origin": "skim_milk",
+      "form": "milk_snf",
+      "processing_methods": [
+        "concentration"
+      ]
+    },
+    {
+      "id": "a4bf8f51-5e16-4b6d-b70e-369558c7faeb",
+      "type": "VarietyOf",
+      "base": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "variety": "raw_milk"
+    },
+    {
+      "id": "94995da3-1b52-4033-ac44-292e6e9b7b50",
+      "type": "VarietyOf",
+      "base": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "variety": "buffalo_milk"
+    },
+    {
+      "id": "d7be5191-cbf2-47bc-a585-f0ce33a82a1b",
+      "type": "FormOf",
+      "origin": "buffalo_milk",
+      "form": "buffalo_fat",
+      "processing_methods": [
+        "centrifugation",
+        "concentration"
+      ]
+    },
+    {
+      "id": "faf1b835-87dd-4315-9db1-1c6c0c33fb7e",
+      "type": "FormOf",
+      "origin": "cheese",
+      "form": "cottage_cheese",
+      "processing_methods": [
+        "coagulation",
+        "draining"
+      ]
+    },
+    {
+      "id": "6e40d7cf-e377-4ffc-919d-b73692250a56",
+      "type": "FormOf",
+      "origin": "cheese",
+      "form": "cheddar_cheese",
+      "processing_methods": [
+        "cheddaring",
+        "ripening"
+      ]
+    },
+    {
+      "id": "7f6522fe-0bce-4607-ae07-db2e80f034b7",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "condensed_milk",
+      "processing_methods": [
+        "evaporation"
+      ]
+    },
+    {
+      "id": "a0466d18-1e4a-4159-aa34-b76a3903f2b1",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "toned_milk",
+      "processing_methods": [
+        "standardization"
+      ]
+    },
+    {
+      "id": "8bbcb9bb-695b-4629-8c82-b4fa40fb2c26",
+      "type": "FormOf",
+      "origin": "c138778c-ffd1-474c-a4ba-f15588d038ab",
+      "form": "full_cream_milk",
+      "processing_methods": [
+        "standardization"
+      ]
+    },
+    {
+      "id": "4c8509cd-680a-4fc2-9815-db7209bad03e",
+      "type": "FormOf",
+      "origin": "butter",
+      "form": "clarified_butter",
+      "processing_methods": [
+        "clarification"
       ]
     }
   ],
-  "customMethods": [],
-  "customMatterStates": [],
+  "customMethods": [
+    "centrifugation",
+    "concentration",
+    "homogenization",
+    "draining",
+    "cheddaring",
+    "ripening",
+    "standardization"
+  ],
+  "customMatterStates": [
+    "viscous"
+  ],
   "customSourceTypes": []
 }
