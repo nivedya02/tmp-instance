@@ -1,0 +1,111 @@
+# IFID_STATE: eyJzb3VyY2VzIjpbeyJpZCI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsIm5hbWUiOiJtaWxrIiwidHlwZSI6ImRhaXJ5IiwiaXNfYWxsZXJnZW4iOnRydWUsImlzX2RlY2xhcmFibGUiOnRydWV9XSwiZm9ybXMiOlt7ImlkIjoid2hleSIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJ3cGMiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoiY3VyZCIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiZ2hlZSIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoia2hvYSIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiY3JlYW0iLCJtYXR0ZXJfc3RhdGUiOiJ2aXNjb3VzIn0seyJpZCI6ImJ1dHRlciIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiY2hlZXNlIiwibWF0dGVyX3N0YXRlIjoic2VtaV9zb2xpZCJ9LHsiaWQiOiJwYW5lZXIiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6InlvZ2h1cnQiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6ImNvd19taWxrIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6ImljZV9jcmVhbSIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoic291cl9jcmVhbSIsIm1hdHRlcl9zdGF0ZSI6InZpc2NvdXMifSx7ImlkIjoic2tpbV9taWxrX3Bvd2RlciIsIm1hdHRlcl9zdGF0ZSI6InBvd2RlciJ9LHsiaWQiOiJtaWxrX3Bvd2RlciIsIm1hdHRlcl9zdGF0ZSI6InBvd2RlciJ9LHsiaWQiOiJjYXNlaW4iLCJtYXR0ZXJfc3RhdGUiOiJsaXF1aWQifSx7ImlkIjoibWlsa19mYXQiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6Im1pbGtfc29saWRzIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6ImxhY3Rvc2UiLCJtYXR0ZXJfc3RhdGUiOiJwb3dkZXIifSx7ImlkIjoic2tpbV9taWxrIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6Im1pbGtfc25mIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6InJhd19taWxrIiwibWF0dGVyX3N0YXRlIjoibGlxdWlkIn0seyJpZCI6ImJ1ZmZhbG9fbWlsayIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJidWZmYWxvX2ZhdCIsIm1hdHRlcl9zdGF0ZSI6InNlbWlfc29saWQifSx7ImlkIjoiY290dGFnZV9jaGVlc2UiLCJtYXR0ZXJfc3RhdGUiOiJzZW1pX3NvbGlkIn0seyJpZCI6ImNoZWRkYXJfY2hlZXNlIiwibWF0dGVyX3N0YXRlIjoic2VtaV9zb2xpZCJ9LHsiaWQiOiJjb25kZW5zZWRfbWlsayIsIm1hdHRlcl9zdGF0ZSI6InZpc2NvdXMifSx7ImlkIjoidG9uZWRfbWlsayIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9LHsiaWQiOiJmdWxsX2NyZWFtX21pbGsiLCJtYXR0ZXJfc3RhdGUiOiJsaXF1aWQifSx7ImlkIjoiY2xhcmlmaWVkX2J1dHRlciIsIm1hdHRlcl9zdGF0ZSI6ImxpcXVpZCJ9XSwicmVsYXRpb25zIjpbeyJpZCI6IjgyY2JmMTk2LWRmOWMtNDI5Yi04YzBjLTdkNGM3MjE4NWJkYyIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoid2hleSIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjb2FndWxhdGlvbiJdfSx7ImlkIjoiNDk1Mzk5N2QtODYzNS00YmVhLWJmMjEtY2JiZDQ5MDZlN2IxIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6IndoZXkiLCJmb3JtIjoid3BjIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbInVsdHJhZmlsdHJhdGlvbiIsImRyeWluZy1zcHJheSJdfSx7ImlkIjoiZTc0N2NlNWItMWEzYy00ODZiLTllY2YtNmRjZGIzYzU1YTJiIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJjdXJkIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImZlcm1lbnRhdGlvbiIsImNvYWd1bGF0aW9uIl19LHsiaWQiOiI1OWQ0YjdjNC0yNzNmLTQ2ZTUtYjViNS1iMzE1Nzg5N2JlNmUiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImdoZWUiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY2xhcmlmaWNhdGlvbiJdfSx7ImlkIjoiNzdjNTE5YjMtNzhmNC00NGY4LThmMTktNTJhMmNjNjM5NTA2IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJraG9hIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImV2YXBvcmF0aW9uIl19LHsiaWQiOiI2YmUzMzNlNy04YWQwLTQzMmItYTExNy1hOWNkM2UyNzI2ODMiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImNyZWFtIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNlbnRyaWZ1Z2F0aW9uIl19LHsiaWQiOiI1OGNjZjVlMC1jNzI0LTQ1ZGItYWQyNS0xZWQ0YTNlZjA0NTYiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImJ1dHRlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjaHVybmluZyJdfSx7ImlkIjoiNzFkYjRmZmEtY2Q1NC00Y2Y2LThmODItNGYwMmQzMjg3Y2E2IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJjaGVlc2UiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY29hZ3VsYXRpb24iLCJmZXJtZW50YXRpb24iXX0seyJpZCI6IjcxMjljODM1LWVjZDgtNDJhMS1hMTE1LTg1MTM1Yjg5YzFjYiIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoicGFuZWVyIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNvYWd1bGF0aW9uIl19LHsiaWQiOiJkMDJhMGRlYi05MGY2LTRlZTEtODgyNy0yYjYyOGQ4YzhkZTQiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6InlvZ2h1cnQiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZmVybWVudGF0aW9uIl19LHsiaWQiOiJkNDM5NzEyZS05ZDIyLTQwOGYtYWE5NC1hNTk3YmJjYjQ2MzciLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiY3JlYW0iLCJmb3JtIjoic291cl9jcmVhbSIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJmZXJtZW50YXRpb24iXX0seyJpZCI6IjJjMTc1MmQyLWI1M2QtNGJlNi1hNjc2LTU5ODcwNzFkZDlmOSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJza2ltX21pbGsiLCJmb3JtIjoic21wX3Bvd2RlciIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJkcnlpbmctc3ByYXkiXX0seyJpZCI6IjJhZGM2Y2ZhLTFjODAtNGU1ZS05M2RiLWFhMTQ4Y2FmZjBhMiIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoibWlsa19wb3dkZXIiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZHJ5aW5nLXNwcmF5Il19LHsiaWQiOiIzMTZkZWViYi05ZTJkLTQ4NmEtYmNkNy1mZDg0ZDg5OTg4MTgiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6ImNhc2VpbiIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjb2FndWxhdGlvbiJdfSx7ImlkIjoiMjljZmYyY2UtNmU1Mi00YjZhLTg5M2UtZDFlMWNhZmVmOTlhIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJtaWxrX2ZhdCIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjZW50cmlmdWdhdGlvbiJdfSx7ImlkIjoiZDg5YzBhNTAtMWI1MS00NjgxLWEyYmMtMDkxYmQ1MThiN2FhIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsImZvcm0iOiJtaWxrX3NvbGlkcyIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJldmFwb3JhdGlvbiIsImNvbmNlbnRyYXRpb24iXX0seyJpZCI6ImViZmY2YTFjLTIzNzMtNDc2Mi1hNDlmLTBhYzhmYTZkOWRhZCIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJ3aGV5IiwiZm9ybSI6ImxhY3Rvc2UiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsidWx0cmFmaWx0cmF0aW9uIiwiZHJ5aW5nLXNwcmF5Il19LHsiaWQiOiJkYmNkODJhMS02MGQ3LTQ5NTAtOWEyOC1mZDljMjg5MGYxYmMiLCJ0eXBlIjoiRm9ybU9mIiwib3JpZ2luIjoiYzEzODc3OGMtZmZkMS00NzRjLWE0YmEtZjE1NTg4ZDAzOGFiIiwiZm9ybSI6InNraW1fbWlsayIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJza2ltbWluZyJdfSx7ImlkIjoiNDUwM2FkYWEtYTk0My00MDI4LTljZTItNDBjYjE0YzdiZjVlIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6InNraW1fbWlsayIsImZvcm0iOiJtaWxrX3NuZiIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjb25jZW50cmF0aW9uIl19LHsiaWQiOiJhNGJmOGY1MS01ZTE2LTRiNmQtYjcwZS0zNjk1NThjN2ZhZWIiLCJ0eXBlIjoiVmFyaWV0eU9mIiwiYmFzZSI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsInZhcmlldHkiOiJyYXdfbWlsayJ9LHsiaWQiOiI5NDk5NWRhMy0xYjUyLTQwMzMtYWM0NC0yOTJlNmU5YjdiNTAiLCJ0eXBlIjoiVmFyaWV0eU9mIiwiYmFzZSI6ImMxMzg3NzhjLWZmZDEtNDc0Yy1hNGJhLWYxNTU4OGQwMzhhYiIsInZhcmlldHkiOiJidWZmYWxvX21pbGsifSx7ImlkIjoiZDdiZTUxOTEtY2JmMi00N2JjLWE1ODUtZjBjZTMzYTgyYTFiIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImJ1ZmZhbG9fbWlsayIsImZvcm0iOiJidWZmYWxvX2ZhdCIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjZW50cmlmdWdhdGlvbiIsImNvbmNlbnRyYXRpb24iXX0seyJpZCI6ImZhZjFiODM1LTg3ZGQtNDMxNS05ZGIxLTFjNmMwYzMzZmI3ZSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjaGVlc2UiLCJmb3JtIjoiY290dGFnZV9jaGVlc2UiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiY29hZ3VsYXRpb24iLCJkcmFpbmluZyJdfSx7ImlkIjoiNmU0MGQ3Y2YtZTM3Ny00ZmZjLTkxOWQtYjczNjkyMjUwYTU2IiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImNoZWVzZSIsImZvcm0iOiJjaGVkZGFyX2NoZWVzZSIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJjaGVkZGFyaW5nIiwicmlwZW5pbmciXX0seyJpZCI6IjdmNjUyMmZlLTBiY2UtNDYwNy1hZTA3LWRiMmU4MGYwMzRiNyIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoiY29uZGVuc2VkX21pbGsiLCJwcm9jZXNzaW5nX21ldGhvZHMiOlsiZXZhcG9yYXRpb24iXX0seyJpZCI6ImEwNDY2ZDE4LTFlNGEtNDE1OS1hYTM0LWI3NmEzOTAzZjJiMSIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoidG9uZWRfbWlsayIsInByb2Nlc3NpbmdfbWV0aG9kcyI6WyJzdGFuZGFyZGl6YXRpb24iXX0seyJpZCI6IjhiYmNiOWJiLTY5NWItNDYyOS04YzgyLWI0ZmE0MGZiMmMyNiIsInR5cGUiOiJGb3JtT2YiLCJvcmlnaW4iOiJjMTM4Nzc4Yy1mZmQxLTQ3NGMtYTRiYS1mMTU1ODhkMDM4YWIiLCJmb3JtIjoiZnVsbF9jcmVhbV9taWxrIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbInN0YW5kYXJkaXphdGlvbiJdfSx7ImlkIjoiNGM4NTA5Y2QtNjgwYS00ZmMyLTk4MTUtZGI3MjA5YmFkMDNlIiwidHlwZSI6IkZvcm1PZiIsIm9yaWdpbiI6ImJ1dHRlciIsImZvcm0iOiJjbGFyaWZpZWRfYnV0dGVyIiwicHJvY2Vzc2luZ19tZXRob2RzIjpbImNsYXJpZmljYXRpb24iXX1dLCJjdXN0b21NZXRob2RzIjpbImNlbnRyaWZ1Z2F0aW9uIiwiY29uY2VudHJhdGlvbiIsImhvbW9nZW5pemF0aW9uIiwiZHJhaW5pbmciLCJjaGVkZGFyaW5nIiwicmlwZW5pbmciLCJzdGFuZGFyZGl6YXRpb24iXSwiY3VzdG9tTWF0dGVyU3RhdGVzIjpbInZpc2NvdXMiXSwiY3VzdG9tU291cmNlVHlwZXMiOltdfQ==
+
+# ── New enum values — add these to enum_requests.md ──────────────────
+# NEW  processing_method: "centrifugation"
+# NEW  processing_method: "concentration"
+# NEW  processing_method: "draining"
+# NEW  processing_method: "cheddaring"
+# NEW  processing_method: "ripening"
+# NEW  processing_method: "standardization"
+# NEW  matter_state: "viscous"
+# ─────────────────────────────────────────────────────────────────────
+
+from index import Database, Source, IngredientForm, FormOf, VarietyOf
+
+db = Database()
+
+milk = db.add(Source(
+    name="milk",
+    type="dairy",
+    is_allergen=True,
+    is_declarable=True
+))
+db.relate(FormOf(origin=milk, form=whey, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=curd, processing_method=["fermentation", "coagulation"]))
+db.relate(FormOf(origin=milk, form=ghee, processing_method=["clarification"]))
+db.relate(FormOf(origin=milk, form=khoa, processing_method=["evaporation"]))
+db.relate(FormOf(origin=milk, form=cream, processing_method=["centrifugation"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=butter, processing_method=["churning"]))
+db.relate(FormOf(origin=milk, form=cheese, processing_method=["coagulation", "fermentation"]))
+db.relate(FormOf(origin=milk, form=paneer, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=yoghurt, processing_method=["fermentation"]))
+db.relate(FormOf(origin=milk, form=milk_powder, processing_method=["drying-spray"]))
+db.relate(FormOf(origin=milk, form=casein, processing_method=["coagulation"]))
+db.relate(FormOf(origin=milk, form=milk_fat, processing_method=["centrifugation"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=milk_solids, processing_method=["evaporation", "concentration"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=skim_milk, processing_method=["skimming"]))
+db.relate(FormOf(origin=milk, form=condensed_milk, processing_method=["evaporation"]))
+db.relate(FormOf(origin=milk, form=toned_milk, processing_method=["standardization"]))  # NEW processing_method
+db.relate(FormOf(origin=milk, form=full_cream_milk, processing_method=["standardization"]))  # NEW processing_method
+
+whey = db.add(IngredientForm(id="whey", matter_state="liquid"))
+db.relate(FormOf(origin=whey, form=wpc, processing_method=["ultrafiltration", "drying-spray"]))
+db.relate(FormOf(origin=whey, form=lactose, processing_method=["ultrafiltration", "drying-spray"]))
+
+wpc = db.add(IngredientForm(id="wpc", matter_state="powder"))
+
+curd = db.add(IngredientForm(id="curd", matter_state="semi_solid"))
+
+ghee = db.add(IngredientForm(id="ghee", matter_state="semi_solid"))
+
+khoa = db.add(IngredientForm(id="khoa", matter_state="semi_solid"))
+
+cream = db.add(IngredientForm(id="cream", matter_state="viscous"))  # NEW matter_state
+db.relate(FormOf(origin=cream, form=sour_cream, processing_method=["fermentation"]))
+
+butter = db.add(IngredientForm(id="butter", matter_state="semi_solid"))
+db.relate(FormOf(origin=butter, form=clarified_butter, processing_method=["clarification"]))
+
+cheese = db.add(IngredientForm(id="cheese", matter_state="semi_solid"))
+db.relate(FormOf(origin=cheese, form=cottage_cheese, processing_method=["coagulation", "draining"]))  # NEW processing_method
+db.relate(FormOf(origin=cheese, form=cheddar_cheese, processing_method=["cheddaring", "ripening"]))  # NEW processing_method
+
+paneer = db.add(IngredientForm(id="paneer", matter_state="semi_solid"))
+
+yoghurt = db.add(IngredientForm(id="yoghurt", matter_state="semi_solid"))
+
+cow_milk = db.add(IngredientForm(id="cow_milk", matter_state="liquid"))
+
+ice_cream = db.add(IngredientForm(id="ice_cream", matter_state="semi_solid"))
+
+sour_cream = db.add(IngredientForm(id="sour_cream", matter_state="viscous"))  # NEW matter_state
+
+skim_milk_powder = db.add(IngredientForm(id="skim_milk_powder", matter_state="powder"))
+
+milk_powder = db.add(IngredientForm(id="milk_powder", matter_state="powder"))
+
+casein = db.add(IngredientForm(id="casein", matter_state="liquid"))
+
+milk_fat = db.add(IngredientForm(id="milk_fat", matter_state="semi_solid"))
+
+milk_solids = db.add(IngredientForm(id="milk_solids", matter_state="liquid"))
+
+lactose = db.add(IngredientForm(id="lactose", matter_state="powder"))
+
+skim_milk = db.add(IngredientForm(id="skim_milk", matter_state="liquid"))
+db.relate(FormOf(origin=skim_milk, form=milk_snf, processing_method=["concentration"]))  # NEW processing_method
+
+milk_snf = db.add(IngredientForm(id="milk_snf", matter_state="liquid"))
+
+raw_milk = db.add(IngredientForm(id="raw_milk", matter_state="liquid"))
+db.relate(VarietyOf(base=milk, variety=raw_milk))
+
+buffalo_milk = db.add(IngredientForm(id="buffalo_milk", matter_state="liquid"))
+db.relate(VarietyOf(base=milk, variety=buffalo_milk))
+db.relate(FormOf(origin=buffalo_milk, form=buffalo_fat, processing_method=["centrifugation", "concentration"]))  # NEW processing_method
+
+buffalo_fat = db.add(IngredientForm(id="buffalo_fat", matter_state="semi_solid"))
+
+cottage_cheese = db.add(IngredientForm(id="cottage_cheese", matter_state="semi_solid"))
+
+cheddar_cheese = db.add(IngredientForm(id="cheddar_cheese", matter_state="semi_solid"))
+
+condensed_milk = db.add(IngredientForm(id="condensed_milk", matter_state="viscous"))  # NEW matter_state
+
+toned_milk = db.add(IngredientForm(id="toned_milk", matter_state="liquid"))
+
+full_cream_milk = db.add(IngredientForm(id="full_cream_milk", matter_state="liquid"))
+
+clarified_butter = db.add(IngredientForm(id="clarified_butter", matter_state="liquid"))
+
+print(db)
