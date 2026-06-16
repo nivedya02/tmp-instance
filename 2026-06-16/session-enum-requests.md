@@ -2,12 +2,9 @@
 
 ## Processing Methods
 - `centrifugation`
-- `concentration`
-- `homogenization`
-- `draining`
-- `cheddaring`
-- `ripening`
 - `standardization`
+- `filtration`
+- `hydrolysis`
 
 ## Matter States
 - `viscous`
